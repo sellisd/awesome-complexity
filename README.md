@@ -74,7 +74,13 @@ An awesome list of complex systems science resources.
 
 ## Courses
 
-## Societies
+## Societies/Communities
+
+- [Complex Systems Society](https://cssociety.org/home)
+
+- [Complexity research](https://complexityresearch.slack.com/) Informal slack community for keeping up to date with new findings in complex systems research
+
+- http://www.necsi.edu/events/iccs2018/
 
 ## Organizations
 
