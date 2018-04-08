@@ -1,5 +1,5 @@
 # awesome-complexity
-An awesome list of complex systems science resources.
+An awesome list of complex systems science resources. <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="An awesome list about all things complexity" data-hashtags="complexity" data-related="DiamantisSellis" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
