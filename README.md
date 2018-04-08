@@ -19,57 +19,48 @@ An awesome list of complex systems science resources.
 
 ## Concepts
 
-- Attractor
-- Autopoiesis
-- Chaos
-- Complexity
-- Developmental Systems Theory
-- Dissipative System
-- Distributed Control
-- Edge of Chaos
-- Emergence
-- Fractal
+- [Attractor](https://en.wikipedia.org/wiki/Attractor)
+- [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)
+- [Chaos](https://en.wikipedia.org/wiki/Chaos_theory)
+- [Complexity](https://en.wikipedia.org/wiki/Complexity)
+- [Developmental Systems Theory](https://en.wikipedia.org/wiki/Developmental_systems_theory)
+- [Dissipative System](https://en.wikipedia.org/wiki/Dissipative_system)
+- [Distributed Control](https://en.wikipedia.org/wiki/Distributed_control_system)
+- [Edge of Chaos](https://en.wikipedia.org/wiki/Edge_of_chaos)
+- [Emergence](https://en.wikipedia.org/wiki/Emergence)
+- [Fractal](https://en.wikipedia.org/wiki/Fractal)
 - Generation History
-- Holon
-- Network/Graph
-- Phase Transition
-- Robustness
-- Self-Organization
-- Simulation
+- [Holon](https://en.wikipedia.org/wiki/Holon_(philosophy))
+- [Network/Graph](https://en.wikipedia.org/wiki/Complex_network)
+- [Phase Transition](https://en.wikipedia.org/wiki/Phase_transition)
+- [Robustness](https://en.wikipedia.org/wiki/Robustness)
+- [Self-Organization](https://en.wikipedia.org/wiki/Self-organization)
+- [Simulation](https://en.wikipedia.org/wiki/Simulation)
 
 ## Books
 
-- Cybernetics: or the Control and Communication in the Animal and the Machine
+ - Wiener, N. (2016). Cybernetics or control and communication in the animal and the machine.
+ - Sorokin, A. (2012). Dynamics of information systems : mathematical foundations. New York, NY: Springer.
+ - Scheffer, M. (2009). Critical transitions in nature and society. Princeton, N.J: Princeton University Press.
+ - Nicolis, G., Basios, V., & (Firm), W. S. (2015). Chaos, information processing and paradoxical games : the legacy of John S. Nicolis. Singapore; Hackensack, N.J.: World Scientific Pub. Co.
+ - Newman, M. E. J. (2010). Networks : an introduction. Oxford; New York: Oxford University Press.
+ - Mitchell, S. D. (2013). Unsimple truths : science, complexity, and policy. Chicago [u.a.]: Univ. of Chicago Press.
+ - Maturana, H. R., & Varela, F. J. (2008). The tree of knowledge : the biological roots of human understanding. Boston [u.a.]: Shambhala.
+ - Mandelbrot, B. (2006). The fractal geometry of nature. New York: W.H. Freeman and Company.
+ - Kauffman, S. (2014). At Home in the Universe The Search for the Laws of Self-Organization and Complexity. Cary: Oxford University Press, USA.
+ - Gros, C. (2015). Complex and adaptive dynamical systems : a primer. Cham: Springer.
+ - Downey, A. (2012). Think complexity. Needham, Massachusetts: Green Tea Press.
+ - Boccara, N. (2014). Modeling complex systems. [Place of publication not identified]: Springer-Verlag New York.
+ - Barrat, A., Barthelemy, M., & Vespignani, A. (2013). Dynamical processes on complex networks.
 
-- https://www.goodreads.com/book/show/21516934-chaos-information-processing-and-paradoxical-games
-
-- At Home in the Universe: The Search for the Laws of Self-Organization and Complexity
-
-- Unsimple Truths: Science, Complexity, and Policy
-
-- https://www.goodreads.com/book/show/15912753-dynamics-of-hierarchical-systems
-
-- https://www.goodreads.com/book/show/558059.The_Fractal_Geometry_of_Nature
-
-- https://www.goodreads.com/book/show/9551096-modeling-complex-systems
-
-- https://www.goodreads.com/book/show/11126263-complex-and-adaptive-dynamical-systems
-
-- Think Complexity: Complexity Science and Computational Modeling
-
-- Critical Transitions in Nature and Society
-
-- https://www.goodreads.com/book/show/5452794-dynamical-processes-on-complex-networks
-
-- Networks: An Introduction
-
-- https://www.goodreads.com/book/show/695440.Tree_of_Knowledge
-
-## Journals
+## Scientific Journals
 
 - [Complexity](https://www.hindawi.com/journals/complexity/)
 
-## Blogs
+## Blogs/Journals
+
+- [Blog of the Stanford Complex Systems Group](http://complexity.stanford.edu/blog)
+- [The Systems Thinker](https://thesystemsthinker.com/)
 
 ## Courses
 
@@ -91,4 +82,21 @@ An awesome list of complex systems science resources.
 
 ## Conferences
 
+## Software
+
+###  Freely to use or open source
+
+- [NetLogo](https://ccl.northwestern.edu/netlogo/)
+- [Swarm](http://www.swarm.org/wiki/Swarm_main_pageSwarm)
+- [Repast](https://repast.github.io/)
+- [MASON](https://cs.gmu.edu/~eclab/projects/mason/)
+
+## Proprietary
+
+- [Stella](https://www.iseesystems.com/store/products/stella-architect.aspx)
+- [Ventity/Vensim](http://www.ventanasystems.com/software/)
+- [Simgua](http://simgua.com/)
+
 ## Other
+
+- [Complexity Explorer](https://www.complexityexplorer.org/) Educational site with news/blog
