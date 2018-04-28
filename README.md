@@ -1,4 +1,4 @@
-# awesome-complexity
+# awesome-complexity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An awesome list of complex systems science resources.
 
 Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a>
@@ -21,22 +21,22 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 ## Concepts
 
-- [Attractor](https://en.wikipedia.org/wiki/Attractor)
-- [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)
-- [Chaos](https://en.wikipedia.org/wiki/Chaos_theory)
+- [Attractor](https://en.wikipedia.org/wiki/Attractor), a trajectory in the state space of a system in which it tends to evolve towards
+- [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis), the ability of a system to create and maintain itself
+- [Chaos](https://en.wikipedia.org/wiki/Chaos_theory), theory of chaotic systems
 - [Complexity](https://en.wikipedia.org/wiki/Complexity)
-- [Developmental Systems Theory](https://en.wikipedia.org/wiki/Developmental_systems_theory)
-- [Dissipative System](https://en.wikipedia.org/wiki/Dissipative_system)
+- [Developmental Systems Theory](https://en.wikipedia.org/wiki/Developmental_systems_theory), theoretical perspective on biological development, heredity, and evolution
+- [Dissipative System](https://en.wikipedia.org/wiki/Dissipative_system), a thermodynamically open system far from thermodynamic equilibrium
 - [Distributed Control](https://en.wikipedia.org/wiki/Distributed_control_system)
-- [Edge of Chaos](https://en.wikipedia.org/wiki/Edge_of_chaos)
-- [Emergence](https://en.wikipedia.org/wiki/Emergence)
-- [Fractal](https://en.wikipedia.org/wiki/Fractal)
-- [Holon](https://en.wikipedia.org/wiki/Holon_(philosophy))
-- [Network/Graph](https://en.wikipedia.org/wiki/Complex_network)
-- [Phase Transition](https://en.wikipedia.org/wiki/Phase_transition)
-- [Robustness](https://en.wikipedia.org/wiki/Robustness)
-- [Self-Organization](https://en.wikipedia.org/wiki/Self-organization)
-- [Simulation](https://en.wikipedia.org/wiki/Simulation)
+- [Edge of Chaos](https://en.wikipedia.org/wiki/Edge_of_chaos), the transition zone between order and disorder
+- [Emergence](https://en.wikipedia.org/wiki/Emergence), the whole is greater than the sum of the parts
+- [Fractal](https://en.wikipedia.org/wiki/Fractal), self similar structure
+- [Holon](https://en.wikipedia.org/wiki/Holon_(philosophy)), system that is both a whole and a part
+- [Network/Graph](https://en.wikipedia.org/wiki/Complex_network), network with non-trivial topological features
+- [Phase Transition](https://en.wikipedia.org/wiki/Phase_transition), transition between states of matter
+- [Robustness](https://en.wikipedia.org/wiki/Robustness), ability to tolerate perturbations
+- [Self-Organization](https://en.wikipedia.org/wiki/Self-organization), the process where form arises from local interactions between parts of an initially disordered system
+- [Simulation](https://en.wikipedia.org/wiki/Simulation), imitation of the operation of a real-world process or system
 
 ## Books
 
