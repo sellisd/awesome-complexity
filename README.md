@@ -56,7 +56,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 ## Scientific Journals
 
-- [Complexity](https://www.hindawi.com/journals/complexity/)
+- [Complexity](https://www.hindawi.com/journals/complexity/) Cross-disciplinary journal about complex adaptive systems (open access)
 
 ## Blogs/Journals
 
