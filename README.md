@@ -31,7 +31,6 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Edge of Chaos](https://en.wikipedia.org/wiki/Edge_of_chaos)
 - [Emergence](https://en.wikipedia.org/wiki/Emergence)
 - [Fractal](https://en.wikipedia.org/wiki/Fractal)
-- Generation History
 - [Holon](https://en.wikipedia.org/wiki/Holon_(philosophy))
 - [Network/Graph](https://en.wikipedia.org/wiki/Complex_network)
 - [Phase Transition](https://en.wikipedia.org/wiki/Phase_transition)
@@ -63,6 +62,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 - [Blog of the Stanford Complex Systems Group](http://complexity.stanford.edu/blog)
 - [The Systems Thinker](https://thesystemsthinker.com/)
+- [Complexity Digest](https://comdig.unam.mx/) News feed on complexity
 
 ## Courses
 
@@ -72,7 +72,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 - [Complexity research](https://complexityresearch.slack.com/) Informal slack community for keeping up to date with new findings in complex systems research
 
-- http://www.necsi.edu/events/iccs2018/
+- [New England Complex Systems Institute (NECSI)](http://www.necsi.edu/)
 
 ## Organizations
 
@@ -81,6 +81,10 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Stanford Complex Systems Group](http://complexity.stanford.edu/)
 
 - [Institut rhônalpin des systèmes complexes - IXXI](http://www.ixxi.fr/)
+
+- [Waterloo Institute for Complexity & Innovation (WICI)](https://uwaterloo.ca/complexity-innovation)
+
+- [Institut des Systèmes Complexes - Paris Ile-de-France (ISC-PIF)](https://iscpif.fr/)
 
 ## Conferences
 
@@ -98,6 +102,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Stella](https://www.iseesystems.com/store/products/stella-architect.aspx)
 - [Ventity/Vensim](http://www.ventanasystems.com/software/)
 - [Simgua](http://simgua.com/)
+- [Cosmo Tech platform](https://cosmotech.com)
 
 ## Other
 
