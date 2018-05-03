@@ -1,5 +1,5 @@
 # awesome-complexity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-An awesome list of complex systems science resources.
+An [awesome list](https://github.com/sindresorhus/awesome/blob/master/awesome.md) of complex systems science resources.
 
 Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a>
 
