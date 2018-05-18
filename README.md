@@ -37,22 +37,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Robustness](https://en.wikipedia.org/wiki/Robustness), ability to tolerate perturbations
 - [Self-Organization](https://en.wikipedia.org/wiki/Self-organization), the process where form arises from local interactions between parts of an initially disordered system
 - [Simulation](https://en.wikipedia.org/wiki/Simulation), imitation of the operation of a real-world process or system
-
-## Books
-
- - Wiener, N. (2016). Cybernetics or control and communication in the animal and the machine.
- - Sorokin, A. (2012). Dynamics of information systems : mathematical foundations. New York, NY: Springer.
- - Scheffer, M. (2009). Critical transitions in nature and society. Princeton, N.J: Princeton University Press.
- - Nicolis, G., Basios, V., & (Firm), W. S. (2015). Chaos, information processing and paradoxical games : the legacy of John S. Nicolis. Singapore; Hackensack, N.J.: World Scientific Pub. Co.
- - Newman, M. E. J. (2010). Networks : an introduction. Oxford; New York: Oxford University Press.
- - Mitchell, S. D. (2013). Unsimple truths : science, complexity, and policy. Chicago [u.a.]: Univ. of Chicago Press.
- - Maturana, H. R., & Varela, F. J. (2008). The tree of knowledge : the biological roots of human understanding. Boston [u.a.]: Shambhala.
- - Mandelbrot, B. (2006). The fractal geometry of nature. New York: W.H. Freeman and Company.
- - Kauffman, S. (2014). At Home in the Universe The Search for the Laws of Self-Organization and Complexity. Cary: Oxford University Press, USA.
- - Gros, C. (2015). Complex and adaptive dynamical systems : a primer. Cham: Springer.
- - Downey, A. (2012). Think complexity. Needham, Massachusetts: Green Tea Press.
- - Boccara, N. (2014). Modeling complex systems. [Place of publication not identified]: Springer-Verlag New York.
- - Barrat, A., Barthelemy, M., & Vespignani, A. (2013). Dynamical processes on complex networks.
+my, M., & Vespignani, A. (2013). Dynamical processes on complex networks.
 
 ## Scientific Journals
 
@@ -63,8 +48,6 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Blog of the Stanford Complex Systems Group](http://complexity.stanford.edu/blog)
 - [The Systems Thinker](https://thesystemsthinker.com/)
 - [Complexity Digest](https://comdig.unam.mx/) News feed on complexity
-
-## Courses
 
 ## Societies/Communities
 
@@ -82,11 +65,11 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 - [Stanford Complex Systems Group](http://complexity.stanford.edu/) Complexity outreach, research and educational hub at Stanford connecting academia and industry
 
-- [Institut rhônalpin des systèmes complexes - IXXI](http://www.ixxi.fr/)
+- [Institut rhônalpin des systèmes complexes - IXXI](http://www.ixxi.fr/) Research center (ENS Lyon)
 
-- [Waterloo Institute for Complexity & Innovation (WICI)](https://uwaterloo.ca/complexity-innovation)
+- [Waterloo Institute for Complexity & Innovation (WICI)](https://uwaterloo.ca/complexity-innovation) Research center (University of Waterloo)
 
-- [Institut des Systèmes Complexes - Paris Ile-de-France (ISC-PIF)](https://iscpif.fr/)
+- [Institut des Systèmes Complexes - Paris Ile-de-France (ISC-PIF)](https://iscpif.fr/) An inter-institutional organization (CNRS unit) on complex systems research
 
 ## Conferences
 
@@ -106,6 +89,22 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Simgua](http://simgua.com/)
 - [Cosmo Tech platform](https://cosmotech.com)
 
-## Other
+## Other Resources
 
 - [Complexity Explorer](https://www.complexityexplorer.org/) Educational site with news/blog
+
+## Books
+
+ - Wiener, N. (2016). Cybernetics or control and communication in the animal and the machine.
+ - Sorokin, A. (2012). Dynamics of information systems : mathematical foundations. New York, NY: Springer.
+ - Scheffer, M. (2009). Critical transitions in nature and society. Princeton, N.J: Princeton University Press.
+ - Nicolis, G., Basios, V., & (Firm), W. S. (2015). Chaos, information processing and paradoxical games : the legacy of John S. Nicolis. Singapore; Hackensack, N.J.: World Scientific Pub. Co.
+ - Newman, M. E. J. (2010). Networks : an introduction. Oxford; New York: Oxford University Press.
+ - Mitchell, S. D. (2013). Unsimple truths : science, complexity, and policy. Chicago [u.a.]: Univ. of Chicago Press.
+ - Maturana, H. R., & Varela, F. J. (2008). The tree of knowledge : the biological roots of human understanding. Boston [u.a.]: Shambhala.
+ - Mandelbrot, B. (2006). The fractal geometry of nature. New York: W.H. Freeman and Company.
+ - Kauffman, S. (2014). At Home in the Universe The Search for the Laws of Self-Organization and Complexity. Cary: Oxford University Press, USA.
+ - Gros, C. (2015). Complex and adaptive dynamical systems : a primer. Cham: Springer.
+ - Downey, A. (2012). Think complexity. Needham, Massachusetts: Green Tea Press.
+ - Boccara, N. (2014). Modeling complex systems. Springer-Verlag New York.
+ - Barrat, A., Barthele
