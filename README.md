@@ -72,13 +72,15 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 - [Complexity research](https://complexityresearch.slack.com/) Informal slack community for keeping up to date with new findings in complex systems research
 
-- [New England Complex Systems Institute (NECSI)](http://www.necsi.edu/)
-
 ## Organizations
 
-- [Santa Fe Institute](https://www.santafe.edu/)
+- [New England Complex Systems Institute (NECSI)](http://www.necsi.edu/)  Independent academic research and educational institution
 
-- [Stanford Complex Systems Group](http://complexity.stanford.edu/)
+- [The Vermont Complex Systems Center](http://vermontcomplexsystems.org/) Research and educational center (University of Vermont)
+
+- [Santa Fe Institute](https://www.santafe.edu/) Independent research and education center
+
+- [Stanford Complex Systems Group](http://complexity.stanford.edu/) Complexity outreach, research and educational hub at Stanford connecting academia and industry
 
 - [Institut rhônalpin des systèmes complexes - IXXI](http://www.ixxi.fr/)
 
