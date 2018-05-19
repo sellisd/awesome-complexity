@@ -109,4 +109,4 @@ my, M., & Vespignani, A. (2013). Dynamical processes on complex networks.
  - Gros, C. (2015). Complex and adaptive dynamical systems : a primer. Cham: Springer.
  - Downey, A. (2012). Think complexity. Needham, Massachusetts: Green Tea Press.
  - Boccara, N. (2014). Modeling complex systems. Springer-Verlag New York.
- - Barrat, A., Barthele
+ - Barrat, A., Barthelemy, M., & Vespignani, A. (2013). Dynamical processes on complex networks. Cambridge : Cambridge University Press
