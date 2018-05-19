@@ -8,14 +8,16 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Concepts](#concepts)
-- [Books](#books)
-- [Journals](#journals)
-- [Blogs](#blogs)
-- [Courses](#courses)
+- [Scientific Journals](#scientific-journals)
+- [Blogs/Journals](#blogsjournals)
 - [Societies/Communities](#societiescommunities)
 - [Organizations](#organizations)
 - [Conferences](#conferences)
-- [Other](#other)
+- [Software](#software)
+  - [Freely to use or open source](#freely-to-use-or-open-source)
+- [Proprietary](#proprietary)
+- [Other Resources](#other-resources)
+- [Books](#books)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
