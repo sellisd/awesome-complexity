@@ -94,6 +94,7 @@ my, M., & Vespignani, A. (2013). Dynamical processes on complex networks.
 ## Other Resources
 
 - [Complexity Explorer](https://www.complexityexplorer.org/) Educational site with news/blog
+- [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) An impressive overview of the evolution of complex systems thinking
 
 ## Books
 
