@@ -1,5 +1,6 @@
-# awesome-complexity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# [awesome-complexity](https://sellisd.github.io/awesome-complexity/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An [awesome list](https://github.com/sindresorhus/awesome/blob/master/awesome.md) of complex systems science resources.
+[https://sellisd.github.io/awesome-complexity/](https://sellisd.github.io/awesome-complexity/)
 
 Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a>
 
@@ -84,7 +85,7 @@ my, M., & Vespignani, A. (2013). Dynamical processes on complex networks.
 - [Repast](https://repast.github.io/) Agent-based modeling and simulation platforms, models coded in C++ and Java
 - [MASON](https://cs.gmu.edu/~eclab/projects/mason/) Multiagent simulation library core in Java
 
-## Proprietary
+### Proprietary
 
 - [Stella](https://www.iseesystems.com/store/products/stella-architect.aspx)
 - [Ventity/Vensim](http://www.ventanasystems.com/software/)
