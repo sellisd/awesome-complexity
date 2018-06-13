@@ -16,7 +16,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Conferences](#conferences)
 - [Software](#software)
   - [Freely to use or open source](#freely-to-use-or-open-source)
-- [Proprietary](#proprietary)
+  - [Proprietary](#proprietary)
 - [Other Resources](#other-resources)
 - [Books](#books)
 
