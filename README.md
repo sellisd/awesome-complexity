@@ -17,6 +17,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Societies/Communities](#societiescommunities)
 - [Organizations](#organizations)
 - [Conferences](#conferences)
+- [Models](#models)
 - [Software](#software)
   - [Freely to use or open source](#freely-to-use-or-open-source)
   - [Proprietary](#proprietary)
@@ -79,6 +80,22 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 ## Conferences
 
 - [Complexity Weekend](https://www.complexityweekend.com/) - Next online event on July 30, 2022
+
+## Models
+
+- [Boids](https://en.wikipedia.org/wiki/Boids) Emergent flocking behavior
+  - [Craig Reynolds' Boids page](https://www.red3d.com/cwr/boids/) The creators webpage with lots of links to multiple implementations
+- Cellular automata, Wolfram's
+- [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) Two dimensional cellular automaton with emergent life-like patterns
+  - [ConwayLife](http://www.conwaylife.com/) Community for game of life and similar simulations
+  - [golly](http://golly.sourceforge.net/) State-of-the-art simulator
+- [Double pendulum](https://en.wikipedia.org/wiki/Double_pendulum) Chaotic motion
+  - [explanation](http://complexity.stanford.edu/blog/double-pendulums)
+- Sync, fireflies
+- Preferential attachement network generation
+- Schelling model
+- Reaction diffusion (https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system) Self-organizaiton and pattern formation model
+- Sand-pile
 
 ## Software
 
