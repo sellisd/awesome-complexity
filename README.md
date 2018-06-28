@@ -53,6 +53,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Blog of the Stanford Complex Systems Group](http://complexity.stanford.edu/blog)
 - [The Systems Thinker](https://thesystemsthinker.com/)
 - [Complexity Digest](https://comdig.unam.mx/) - News feed on complexity.
+- [Fractal forums](https://fractalforums.org/) - Forum and discussion comunity about fractals.
 
 ## Societies/Communities
 
