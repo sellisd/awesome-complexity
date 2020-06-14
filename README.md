@@ -84,6 +84,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 ###  Freely to use or open source
 
 - [NetLogo](https://ccl.northwestern.edu/netlogo/) - Multi-agent modeling environment based on the LOGO language. It comes with a very large library of toy models.
+- [Simulus](https://simulus.readthedocs.io/en/latest/) - ABM library in Python
 - [Swarm](http://www.swarm.org/wiki/Swarm_main_page) - A platform for agent-based models writen in Objective-C, models are coded in Java or Objective-C.
 - [Repast](https://repast.github.io/) - Agent-based modeling and simulation platforms, models coded in C++ and Java.
 - [MASON](https://cs.gmu.edu/~eclab/projects/mason/) - Multiagent simulation library core in Java.
