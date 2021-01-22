@@ -61,6 +61,8 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 - [Complexity research](https://complexityresearch.slack.com/) - Informal slack community for keeping up to date with new findings in complex systems research.
 
+- [Complexity Weekend](https://www.complexityweekend.com/) - Complexity community of practice organizing regular complexity related events
+
 ## Organizations
 
 - [New England Complex Systems Institute (NECSI)](http://www.necsi.edu/) - Independent academic research and educational institution.
@@ -78,6 +80,8 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Institut des Systèmes Complexes - Paris Ile-de-France (ISC-PIF)](https://iscpif.fr/) - An inter-institutional organization (CNRS unit) on complex systems research.
 
 ## Conferences
+
+- [Complexity Weekend](https://www.complexityweekend.com/) - Next online event on May 21-23, 2021
 
 ## Software
 
