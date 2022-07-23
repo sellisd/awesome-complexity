@@ -50,7 +50,6 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 ## Blogs/Journals
 
-- [Blog of the Stanford Complex Systems Group](http://complexity.stanford.edu/blog)
 - [The Systems Thinker](https://thesystemsthinker.com/)
 - [Complexity Digest](https://comdig.unam.mx/) - News feed on complexity.
 - [Fractal forums](https://fractalforums.org/) - Forum and discussion comunity about fractals.
@@ -71,8 +70,6 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 - [Santa Fe Institute](https://www.santafe.edu/) - Independent research and education center.
 
-- [Stanford Complex Systems Group](http://complexity.stanford.edu/) - Complexity outreach, research and educational hub at Stanford connecting academia and industry.
-
 - [Institut rhônalpin des systèmes complexes - IXXI](http://www.ixxi.fr/) - Research center (ENS Lyon).
 
 - [Waterloo Institute for Complexity & Innovation (WICI)](https://uwaterloo.ca/complexity-innovation) - Research center (University of Waterloo).
@@ -81,7 +78,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 ## Conferences
 
-- [Complexity Weekend](https://www.complexityweekend.com/) - Next online event on May 21-23, 2021
+- [Complexity Weekend](https://www.complexityweekend.com/) - Next online event on July 30, 2022
 
 ## Software
 
@@ -98,13 +95,13 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 - [Stella](https://www.iseesystems.com/store/products/stella-architect.aspx)
 - [Ventity/Vensim](http://www.ventanasystems.com/software/)
-- [Simgua](http://simgua.com/)
 - [Cosmo Tech platform](https://cosmotech.com)
 
 ## Other Resources
 
 - [Complexity Explorer](https://www.complexityexplorer.org/) - Educational site with news/blog.
 - [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) - An impressive overview of the evolution of complex systems thinking.
+- [Stanford Complexity Group](https://www.youtube.com/user/StanfordComplexity/videos) - Youtube channel with videos from the group's events
 
 ## Books
 
