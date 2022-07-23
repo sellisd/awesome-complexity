@@ -83,13 +83,13 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 ## Models
 
-- [Boids](https://en.wikipedia.org/wiki/Boids) Emergent flocking behavior
-  - [Craig Reynolds' Boids page](https://www.red3d.com/cwr/boids/) The creators webpage with lots of links to multiple implementations
-- [Cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton)
-- [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) Two dimensional cellular automaton with emergent life-like patterns
-  - [ConwayLife](http://www.conwaylife.com/) Community for game of life and similar simulations
-  - [golly](http://golly.sourceforge.net/) State-of-the-art simulator
-- [Double pendulum](https://en.wikipedia.org/wiki/Double_pendulum) Chaotic motion
+- [Boids](https://en.wikipedia.org/wiki/Boids) - Emergent flocking behavior
+  - [Craig Reynolds' Boids page](https://www.red3d.com/cwr/boids/) - The creators webpage with lots of links to multiple implementations
+- Cellular automata, Wolfram's
+- [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - Two dimensional cellular automaton with emergent life-like patterns
+  - [ConwayLife](http://www.conwaylife.com/) - Community for game of life and similar simulations
+  - [golly](http://golly.sourceforge.net/) - State-of-the-art simulator
+- [Double pendulum](https://en.wikipedia.org/wiki/Double_pendulum) - Chaotic motion
   - [explanation](http://complexity.stanford.edu/blog/double-pendulums)
 - [Kuramoto model](https://en.wikipedia.org/wiki/Kuramoto_model) - Synchronization
 - [Barabási–Albert (BA) model](https://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model) - Algorithm for generating random graphs with preferential attachment
