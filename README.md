@@ -1,11 +1,9 @@
 # [awesome-complexity](https://sellisd.github.io/awesome-complexity/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An [awesome list](https://github.com/sindresorhus/awesome/blob/master/awesome.md) of complex systems science resources.
 
-Website: [https://sellisd.github.io/awesome-complexity/](https://sellisd.github.io/awesome-complexity/)
-
-Source: [https://github.com/sellisd/awesome-complexity](https://github.com/sellisd/awesome-complexity)
-
-Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a>
+<div>
+<a href=https://sellisd.github.io/awesome-complexity/>website</a>,<a href=https://github.com/sellisd/awesome-complexity>source</a>,<a href="https://twitter.com/share?ref_src=twsrc%5Etfw">tweet</a>
+</div>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -84,15 +82,15 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Barabási–Albert (BA) model](https://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model) - Algorithm for generating random graphs with preferential attachment.
 - [Schelling's model](https://en.wikipedia.org/wiki/Schelling%27s_model_of_segregation) - Agent-based model for segregation.
 - [Ising model](https://en.wikipedia.org/wiki/Ising_model) - Simple model that can show phase transitions.
-- [Reaction-diffusion](https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system) Self-organization and pattern formation model.
+- [Reaction-diffusion](https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system) - Self-organization and pattern formation model.
 - [Abelian sandpile model](https://en.wikipedia.org/wiki/Abelian_sandpile_model) - Model showing self-organized criticality.
 
 ## Software
 
-###  Freely to use or open source
+### Freely to use or open source
 
 - [NetLogo](https://ccl.northwestern.edu/netlogo/) - Multi-agent modeling environment based on the LOGO language. It comes with a very large library of toy models.
-- [Simulus](https://simulus.readthedocs.io/en/latest/) - ABM library in Python
+- [Simulus](https://simulus.readthedocs.io/en/latest/) - ABM library in Python.
 - [Swarm](http://www.swarm.org/wiki/Swarm_main_page) - A platform for agent-based models written in Objective-C, models are coded in Java or Objective-C.
 - [Repast](https://repast.github.io/) - Agent-based modeling and simulation platforms, models coded in C++ and Java.
 - [MASON](https://cs.gmu.edu/~eclab/projects/mason/) - Multiagent simulation library core in Java.
@@ -108,20 +106,20 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 
 - [Complexity Explorer](https://www.complexityexplorer.org/) - Educational site with news/blog.
 - [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) - An impressive overview of the evolution of complex systems thinking.
-- [Stanford Complexity Group](https://www.youtube.com/user/StanfordComplexity/videos) - Youtube channel with videos from the group's events.
+- [Stanford Complexity Group](https://www.youtube.com/user/StanfordComplexity/videos) - YouTube channel with videos from the group's events.
 
 ## Books
 
- - Wiener, N. (2016). Cybernetics or control and communication in the animal and the machine.
- - Sorokin, A. (2012). Dynamics of information systems: mathematical foundations. New York, NY: Springer.
- - Scheffer, M. (2009). Critical transitions in nature and society. Princeton, N.J: Princeton University Press.
- - Nicolis, G., Basios, V., & (Firm), W. S. (2015). Chaos, information processing and paradoxical games: the legacy of John S. Nicolis. Singapore; Hackensack, N.J.: World Scientific Pub. Co.
- - Newman, M. E. J. (2010). Networks: an introduction. Oxford; New York: Oxford University Press.
- - Mitchell, S. D. (2013). Unsimple truths: science, complexity, and policy. Chicago [u.a.]: Univ. of Chicago Press.
- - Maturana, H. R., & Varela, F. J. (2008). The tree of knowledge: the biological roots of human understanding. Boston [u.a.]: Shambhala.
- - Mandelbrot, B. (2006). The fractal geometry of nature. New York: W.H. Freeman and Company.
- - Kauffman, S. (2014). At Home in the Universe The Search for the Laws of Self-Organization and Complexity. Cary: Oxford University Press, USA.
- - Gros, C. (2015). Complex and adaptive dynamical systems: a primer. Cham: Springer.
- - Downey, A. (2012). Think complexity. Needham, Massachusetts: Green Tea Press.
- - Boccara, N. (2014). Modeling complex systems. Springer-Verlag New York.
- - Barrat, A., Barthelemy, M., & Vespignani, A. (2013). Dynamical processes on complex networks. Cambridge: Cambridge University Press
+- Wiener, N. (2016). Cybernetics or control and communication in the animal and the machine.
+- Sorokin, A. (2012). Dynamics of information systems: mathematical foundations. New York, NY: Springer.
+- Scheffer, M. (2009). Critical transitions in nature and society. Princeton, N.J: Princeton University Press.
+- Nicolis, G., Basios, V., & (Firm), W. S. (2015). Chaos, information processing and paradoxical games: the legacy of John S. Nicolis. Singapore; Hackensack, N.J.: World Scientific Pub. Co.
+- Newman, M. E. J. (2010). Networks: an introduction. Oxford; New York: Oxford University Press.
+- Mitchell, S. D. (2013). Unsimple truths: science, complexity, and policy. Chicago: Univ. of Chicago Press.
+- Maturana, H. R., & Varela, F. J. (2008). The tree of knowledge: the biological roots of human understanding. Boston: Shambhala.
+- Mandelbrot, B. (2006). The fractal geometry of nature. New York: W.H. Freeman and Company.
+- Kauffman, S. (2014). At Home in the Universe The Search for the Laws of Self-Organization and Complexity. Cary: Oxford University Press, USA.
+- Gros, C. (2015). Complex and adaptive dynamical systems: a primer. Cham: Springer.
+- Downey, A. (2012). Think complexity. Needham, Massachusetts: Green Tea Press.
+- Boccara, N. (2014). Modeling complex systems. Springer-Verlag New York.
+- Barrat, A., Barthelemy, M., & Vespignani, A. (2013). Dynamical processes on complex networks. Cambridge: Cambridge University Press
