@@ -43,7 +43,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Phase Transition](https://en.wikipedia.org/wiki/Phase_transition) - Transition between states of matter.
 - [Robustness](https://en.wikipedia.org/wiki/Robustness) - Ability to tolerate perturbations.
 - [Self-Organization](https://en.wikipedia.org/wiki/Self-organization) - The process where form arises from local interactions between parts of an initially disordered system.
-- [Simulation](https://en.wikipedia.org/wiki/Simulation) - Imitation of the operation of a real-world process or system
+- [Simulation](https://en.wikipedia.org/wiki/Simulation) - Imitation of the operation of a real-world process or system.
 
 ## Scientific Journals
 
@@ -69,10 +69,6 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Institut rhônalpin des systèmes complexes - IXXI](http://www.ixxi.fr/) - Research center (ENS Lyon).
 - [Waterloo Institute for Complexity & Innovation (WICI)](https://uwaterloo.ca/complexity-innovation) - Research center (University of Waterloo).
 - [Institut des Systèmes Complexes - Paris Ile-de-France (ISC-PIF)](https://iscpif.fr/) - An inter-institutional organization (CNRS unit) on complex systems research.
-
-## Conferences
-
-- [Complexity Weekend](https://www.complexityweekend.com/) - Next online event on July 30, 2022
 
 ## Models
 
@@ -100,7 +96,7 @@ Share it with a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw">Tweet</a
 - [Swarm](http://www.swarm.org/wiki/Swarm_main_page) - A platform for agent-based models written in Objective-C, models are coded in Java or Objective-C.
 - [Repast](https://repast.github.io/) - Agent-based modeling and simulation platforms, models coded in C++ and Java.
 - [MASON](https://cs.gmu.edu/~eclab/projects/mason/) - Multiagent simulation library core in Java.
-- [HASH](https://hash.ai/) - Multi-agent simulation IDE available in the browser. Supports Python and Javascript.
+- [HASH](https://hash.ai/) - Graph and agent simulation platform.
 
 ### Proprietary
 
