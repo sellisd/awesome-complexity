@@ -7,7 +7,8 @@ An [awesome list](https://github.com/sindresorhus/awesome/blob/master/awesome.md
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Contents**
+
+## Contents
 
 - [Concepts](#concepts)
 - [Scientific Journals](#scientific-journals)
