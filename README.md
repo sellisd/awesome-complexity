@@ -15,7 +15,6 @@ An [awesome list](https://github.com/sindresorhus/awesome/blob/master/awesome.md
 - [Blogs/Journals](#blogsjournals)
 - [Societies/Communities](#societiescommunities)
 - [Organizations](#organizations)
-- [Conferences](#conferences)
 - [Models](#models)
 - [Software](#software)
   - [Freely to use or open source](#freely-to-use-or-open-source)
