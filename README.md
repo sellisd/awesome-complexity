@@ -1,5 +1,6 @@
 # [Awesome Complexity](https://sellisd.github.io/awesome-complexity/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-An [awesome list](https://github.com/sindresorhus/awesome/blob/master/awesome.md) of complex systems science resources.
+
+A curated list of resources related to complex systems.
 
 <div>
 <a href=https://sellisd.github.io/awesome-complexity/>website</a>,<a href=https://github.com/sellisd/awesome-complexity>source</a>,<a href="https://twitter.com/share?ref_src=twsrc%5Etfw">tweet</a>
