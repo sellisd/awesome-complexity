@@ -108,6 +108,7 @@ A curated list of resources related to complex systems.
 - [Complexity Explorer](https://www.complexityexplorer.org/) - Educational site with news/blog.
 - [Map of Complex systems History](http://www.art-sciencefactory.com/complexity-map_feb09.html) - An impressive overview of the evolution of complex systems thinking.
 - [Stanford Complexity Group](https://www.youtube.com/user/StanfordComplexity/videos) - YouTube channel with videos from the group's events.
+- [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis) - Resources for analysis of network data.
 
 ## Books
 
