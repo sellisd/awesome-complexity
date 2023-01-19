@@ -2,10 +2,6 @@
 
 A curated list of resources related to complex systems.
 
-<div>
-<a href=https://sellisd.github.io/awesome-complexity/>website</a>,<a href=https://github.com/sellisd/awesome-complexity>source</a>,<a href="https://twitter.com/share?ref_src=twsrc%5Etfw">tweet</a>
-</div>
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
