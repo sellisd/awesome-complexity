@@ -108,16 +108,15 @@ A curated list of resources related to complex systems.
 
 ## Books
 
-- Wiener, N. (2016). Cybernetics or control and communication in the animal and the machine.
-- Sorokin, A. (2012). Dynamics of information systems: mathematical foundations. New York, NY: Springer.
-- Scheffer, M. (2009). Critical transitions in nature and society. Princeton, N.J: Princeton University Press.
-- Nicolis, G., Basios, V., & (Firm), W. S. (2015). Chaos, information processing and paradoxical games: the legacy of John S. Nicolis. Singapore; Hackensack, N.J.: World Scientific Pub. Co.
-- Newman, M. E. J. (2010). Networks: an introduction. Oxford; New York: Oxford University Press.
-- Mitchell, S. D. (2013). Unsimple truths: science, complexity, and policy. Chicago: Univ. of Chicago Press.
-- Maturana, H. R., & Varela, F. J. (2008). The tree of knowledge: the biological roots of human understanding. Boston: Shambhala.
-- Mandelbrot, B. (2006). The fractal geometry of nature. New York: W.H. Freeman and Company.
-- Kauffman, S. (2014). At Home in the Universe The Search for the Laws of Self-Organization and Complexity. Cary: Oxford University Press, USA.
-- Gros, C. (2015). Complex and adaptive dynamical systems: a primer. Cham: Springer.
-- Downey, A. (2012). Think complexity. Needham, Massachusetts: Green Tea Press.
-- Boccara, N. (2014). Modeling complex systems. Springer-Verlag New York.
-- Barrat, A., Barthelemy, M., & Vespignani, A. (2013). Dynamical processes on complex networks. Cambridge: Cambridge University Press
+- [Wiener, N. (2016). Cybernetics or control and communication in the animal and the machine.](https://worldcat.org/en/title/1155181636) - The book introduced the term cybernetics to describe a self-regulation mechanism.
+- [Scheffer, M. (2009). Critical transitions in nature and society. Princeton, N.J: Princeton University Press.](https://worldcat.org/en/title/1229162077) - A nicely written and accessible description of the critical transition and related concepts
+- [Nicolis, G., Basios, V., & (Firm), W. S. (2015). Chaos, information processing and paradoxical games: the legacy of John S. Nicolis. Singapore; Hackensack, N.J.: World Scientific Pub. Co.](https://worldcat.org/en/title/891718596) - An edited volume of studies honoring the legacy of John Nicolis contribution to complex systems
+- [Newman, M. E. J. (2010). Networks: an introduction. Oxford; New York: Oxford University Press.](https://worldcat.org/en/title/923343299) - A comprehensive introduction to network science.
+- [Mitchell, S. D. (2013). Unsimple truths: science, complexity, and policy. Chicago: Univ. of Chicago Press.](https://worldcat.org/en/title/855547314) - The book introduces the perspective of  integrative puralism as a way of understanding and studying the world.
+- [Maturana, H. R., & Varela, F. J. (2008). The tree of knowledge: the biological roots of human understanding. Boston: Shambhala.](https://worldcat.org/en/title/316152876) - The book is an exposition of the non-representational vew of knowledge.
+- [Mandelbrot, B. (2006). The fractal geometry of nature. New York: W.H. Freeman and Company.](https://worldcat.org/en/title/1286107107) - Beautiful introduction to the world of fractals.
+- [Kauffman, S. (2014). At Home in the Universe The Search for the Laws of Self-Organization and Complexity. Cary: Oxford University Press, USA.](https://worldcat.org/en/title/36889961) - The book introduces in an accessible way the influence of concepts such as self-organization and the edge of chaos. 
+- [Gros, C. (2015). Complex and adaptive dynamical systems: a primer. Cham: Springer.](https://worldcat.org/en/title/906708597) - Technical and accessible introduction to a number of important concepts in complex systems science.
+- [Downey, A. (2012). Think complexity. Needham, Massachusetts: Green Tea Press.](https://worldcat.org/en/title/1043913738) - A hands-on approach exploring complex systems models with Python.
+- [Boccara, N. (2014). Modeling complex systems. Springer-Verlag New York.](https://worldcat.org/en/title/934989650) - An overview of important mathematical models of complex systems.
+- [Barrat, A., Barthelemy, M., & Vespignani, A. (2013). Dynamical processes on complex networks. Cambridge: Cambridge University Press](https://worldcat.org/en/title/849822968) - Dynamic models on complex networks.
