@@ -1,6 +1,6 @@
 # [Awesome Complexity](https://sellisd.github.io/awesome-complexity/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources related to complex systems.
+A curated list of resources related to complex systems, the scientific field studying systems with multiple interacting parts and emergent properties.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
