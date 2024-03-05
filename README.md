@@ -5,7 +5,7 @@ A curated list of resources related to complex systems, the scientific field stu
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-## Contents
+## Content
 
 - [Concepts](#concepts)
 - [Scientific Journals](#scientific-journals)
