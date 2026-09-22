@@ -88,6 +88,7 @@ A curated list of resources related to complex systems, the scientific field stu
 
 ### Freely to use or open source
 
+- [Mandelbrot Fractal Neural Synthesis & Orbital Error Dynamics](https://github.com/pCwOrM/mandelbrot-fractal-neural-synthesis) - Procedural zero-storage neural synthesis, non-linear decision boundaries, and self-organized criticality derived from chaotic Mandelbrot escape dynamics (Zenodo DOIs: [10.5281/zenodo.22867037](https://doi.org/10.5281/zenodo.22867037), [10.5281/zenodo.22900465](https://doi.org/10.5281/zenodo.22900465)).
 - [NetLogo](https://ccl.northwestern.edu/netlogo/) - Multi-agent modeling environment based on the LOGO language. It comes with a very large library of toy models.
 - [Simulus](https://simulus.readthedocs.io/en/latest/) - ABM library in Python.
 - [Swarm](http://www.swarm.org/wiki/Swarm_main_page) - A platform for agent-based models written in Objective-C, models are coded in Java or Objective-C.
