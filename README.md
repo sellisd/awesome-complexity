@@ -72,6 +72,7 @@ A curated list of resources related to complex systems, the scientific field stu
   - [Craig Reynolds' Boids page](https://www.red3d.com/cwr/boids/) - The creator's webpage with lots of links to multiple implementations.
 - [Cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) - Discrete compuation model.
 - [Elementary cellular automaton](https://en.wikipedia.org/wiki/Elementary_cellular_automaton) - One-dimensional cellular automata.
+  - [All 256 elementary rules in the browser](https://neuralcosmology.com/en/experiments/cc-comp-rule110) - Interactive explorer, Rule 110 by default.
 - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - Two-dimensional cellular automaton with emergent life-like patterns.
   - [ConwayLife](http://www.conwaylife.com/) - Community for game-of-life and similar simulations.
   - [golly](http://golly.sourceforge.net/) - State-of-the-art simulator.
